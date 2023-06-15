@@ -1,0 +1,15 @@
+.login {
+  background: #f25824;
+}
+
+.butt {
+  box-shadow: 0px -25px 20px -20px rgba(0,0,0,0.45),
+  25px 0px 20px -20px rgba(0,0,0,0.45),
+  0px 25px 20px -20px rgba(0,0,0,0.45),
+  -25px 0px 20px -20px rgba(0,0,0,0.45);
+}
+input[type="text"], input[type="password"], textarea {
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #ccc; /* You can adjust the color and thickness of the outline */
+}
